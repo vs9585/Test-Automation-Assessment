@@ -1,0 +1,8 @@
+{
+  "name": "VanguardUItest",
+  "version": "1.0.0",
+  "description": "Automated UI test to compare 4 investment funds",
+  "main": "index.js",
+  "author": "Vikash Sultania",
+  "license": "ISC"
+}

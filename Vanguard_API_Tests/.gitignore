@@ -1,0 +1,6 @@
+**/.idea/*
+reports/
+/api-tests/node_modules
+mochawesome.html
+api-tests/mochawesome-reports
+api-tests/test-results.xml

@@ -1,0 +1,11 @@
+{
+  "default": {
+    "baseUrl": "https://www.vanguardinvestments.com.au"
+  },
+  "sit1": {
+    "baseUrl": "https://www.vanguardinvestments.com.au"
+  },
+  "ciTest": {
+    "baseUrl": "https://www.vanguardinvestments.com.au"
+  }
+}
